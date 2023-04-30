@@ -1,1 +1,1 @@
-This is a collaboration project done by Talent and Patience
+This is a group project done authored by Talent
