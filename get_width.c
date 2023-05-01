@@ -1,13 +1,12 @@
 #include "main.h"
-
 /**
- *get_width - Calculates the width
- *@format: Formatted string to print args
+ *get_width - ...
+ *@format: ...
  *authors Talent
  *@i: printed args list
- *@list: list of args
+ *@list: ...
  *
- *Return: width.
+ *Return: ...
  */
 int get_width(const char *format, int *i, va_list list)
 {
@@ -30,7 +29,6 @@ int get_width(const char *format, int *i, va_list list)
 		else
 			break;
 	}
-
 	*i = curr_i - 1;
 
 	return (width);
